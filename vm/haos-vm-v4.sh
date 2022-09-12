@@ -174,7 +174,7 @@ else
 fi
 if (whiptail --title "START VIRTUAL MACHINE" --yesno "Start VM when completed?" 10 58); then
     echo -e "${DGN}Start VM when completed: ${BGN}yes${CL}"
-    START_VM="yes"
+    START_VM="no"
 else
     echo -e "${DGN}Start VM when completed: ${BGN}no${CL}"
     START_VM="no"
