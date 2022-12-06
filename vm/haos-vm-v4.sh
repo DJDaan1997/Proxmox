@@ -281,6 +281,7 @@ pvesm alloc $STORAGE $VMID $DISK0 4M 1>&/dev/null
 qm importdisk $VMID ${FILE%.*} $STORAGE ${DISK_IMPORT:-} 1>&/dev/null
 qm set $VMID \
   -efidisk0 ${DISK0_REF}${FORMAT} \
+  -KVM hardware virtualisation=yes \
   -scsi0 ${DISK1_REF},${THIN}size=32G \
   -boot order=scsi0 \
   -description "# Home Assistant OS
