@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HYROX Mabel Analyse — Amsterdam vs Rotterdam 2026</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>HYROX Analyse — Mabel</h1>
+    <p>Vergelijking tussen <strong>Amsterdam 2026</strong> (baseline) en <strong>Rotterdam 2026</strong> (tweede poging).</p>
+  </header>
+
+  <main>
+    <section class="cards" id="kpi-cards"></section>
+
+    <section class="panel">
+      <h2>Mooie vergelijkingstabel (kernmetrics)</h2>
+      <div class="table-wrap">
+        <table id="core-table">
+          <thead>
+            <tr>
+              <th>Metric</th>
+              <th>Amsterdam</th>
+              <th>Rotterdam</th>
+              <th>Verschil</th>
+              <th>Interpretatie</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel grid-2">
+      <div>
+        <h2>Run-segment vergelijking</h2>
+        <div class="bars" id="run-bars"></div>
+      </div>
+      <div>
+        <h2>Workout vergelijking</h2>
+        <div class="bars" id="workout-bars"></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Run per segment (tabel)</h2>
+      <div class="table-wrap">
+        <table id="run-table">
+          <thead>
+            <tr>
+              <th>Segment</th>
+              <th>Amsterdam</th>
+              <th>Rotterdam</th>
+              <th>Verschil (sec)</th>
+              <th>Verschil (%)</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Workout per onderdeel (tabel)</h2>
+      <div class="table-wrap">
+        <table id="workout-table">
+          <thead>
+            <tr>
+              <th>Onderdeel</th>
+              <th>Amsterdam</th>
+              <th>Rotterdam</th>
+              <th>Verschil (sec)</th>
+              <th>Verschil (%)</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel small">
+      <h2>Data-opmerking</h2>
+      <p>Deze site gebruikt de gestructureerde data uit <code>../mabel_hyrox_2026_data.json</code>.</p>
+      <p>Splits-data en simulator-data waren gedeeltelijk/onvolledig beschikbaar; dat is in de brondata gedocumenteerd.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
