@@ -1,0 +1,96 @@
+:root {
+  --bg: #0f172a;
+  --panel: #111827;
+  --panel-2: #1f2937;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --ams: #60a5fa;
+  --rot: #34d399;
+  --bad: #f87171;
+  --good: #34d399;
+  --line: #374151;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, Segoe UI, Roboto, Arial, sans-serif;
+  color: var(--text);
+  background: linear-gradient(180deg, #020617, var(--bg));
+}
+
+.hero {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+.hero h1 { margin: 0 0 .5rem; }
+.hero p { margin: 0; color: var(--muted); }
+
+main { max-width: 1200px; margin: 0 auto; padding: 1rem; }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: .75rem;
+}
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: .8rem;
+  padding: .9rem;
+}
+.card .k { color: var(--muted); font-size: .86rem; }
+.card .v { margin-top: .35rem; font-size: 1.2rem; font-weight: 700; }
+.card .d { margin-top: .2rem; font-size: .9rem; }
+
+.panel {
+  margin-top: 1rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: .8rem;
+  padding: 1rem;
+}
+.panel h2 { margin-top: 0; font-size: 1.1rem; }
+.grid-2 { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+@media (min-width: 960px) {
+  .grid-2 { grid-template-columns: 1fr 1fr; }
+}
+
+.table-wrap { overflow-x: auto; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 700px;
+}
+th, td {
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  padding: .55rem;
+  font-size: .92rem;
+}
+th { color: #cbd5e1; background: var(--panel-2); position: sticky; top: 0; }
+.pos { color: var(--bad); }
+.neg { color: var(--good); }
+
+.bars { display: grid; gap: .45rem; }
+.row { display: grid; grid-template-columns: 130px 1fr; align-items: center; gap: .5rem; }
+.label { color: #cbd5e1; font-size: .85rem; }
+.track {
+  position: relative;
+  height: 22px;
+  background: #0b1220;
+  border: 1px solid var(--line);
+  border-radius: .5rem;
+  overflow: hidden;
+}
+.bar {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  opacity: .9;
+}
+.bar.ams { background: var(--ams); left: 0; }
+.bar.rot { background: var(--rot); bottom: 0; right: 0; }
+.legend { color: var(--muted); font-size: .82rem; margin-top: .5rem; }
+.small p { color: var(--muted); margin: .4rem 0; }
+code { color: #f9a8d4; }

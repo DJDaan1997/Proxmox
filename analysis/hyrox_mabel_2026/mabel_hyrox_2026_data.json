@@ -1,0 +1,483 @@
+{
+  "events": [
+    {
+      "event": "Amsterdam 2026",
+      "idp": "LR3MS4JI456B46",
+      "athletes": [
+        "Mabel De Glas",
+        "Nance Van Der Lem"
+      ],
+      "division": "DB WOMEN",
+      "age_group": "16-24",
+      "totals": {
+        "finish_time": "1:17:57",
+        "finish_seconds": 4677,
+        "overall_rank": 378,
+        "field_size": 1635,
+        "overall_percentile_top": 23.6,
+        "ag_rank": 70,
+        "run_total": "44:22",
+        "run_seconds": 2662,
+        "run_rank": 451,
+        "run_percentile_top": 32.7,
+        "workout_total": "27:00",
+        "workout_seconds": 1620,
+        "workout_rank": 278,
+        "workout_percentile_top": 25.5,
+        "roxzone_total": "06:35",
+        "roxzone_seconds": 395,
+        "roxzone_rank": 526,
+        "roxzone_percentile_top": 36.0,
+        "fastest_run": "04:06",
+        "avg_run_pace": "05:33",
+        "running_ratio_pct": 56.9,
+        "workout_avg": "03:23",
+        "workout_ratio_pct": 34.6
+      },
+      "runs": [
+        "04:06",
+        "05:19",
+        "05:40",
+        "05:31",
+        "05:47",
+        "05:47",
+        "05:51",
+        "06:25"
+      ],
+      "workouts": {
+        "SkiErg": "04:22",
+        "Sled Push": "01:34",
+        "Sled Pull": "03:22",
+        "Burpee Broad Jump": "04:09",
+        "Row": "04:44",
+        "Farmers Carry": "01:29",
+        "Sandbag Lunges": "03:22",
+        "Wall Balls": "03:58"
+      },
+      "splits_available_rows": [
+        [
+          "Roxzone In",
+          "04:06"
+        ],
+        [
+          "SkiErg In",
+          "04:11"
+        ],
+        [
+          "SkiErg Out",
+          "08:32"
+        ],
+        [
+          "Roxzone Out",
+          "09:18"
+        ],
+        [
+          "Roxzone In",
+          "14:36"
+        ],
+        [
+          "Sled Push In",
+          "14:38"
+        ],
+        [
+          "Sled Push Out",
+          "16:11"
+        ],
+        [
+          "Roxzone Out",
+          "16:33"
+        ],
+        [
+          "Roxzone In",
+          "22:13"
+        ],
+        [
+          "Sled Pull In",
+          "22:16"
+        ],
+        [
+          "Sled Pull Out",
+          "25:38"
+        ],
+        [
+          "Roxzone Out",
+          "26:15"
+        ],
+        [
+          "Roxzone In",
+          "31:45"
+        ],
+        [
+          "Burpee Broad Jump In",
+          "32:06"
+        ],
+        [
+          "Burpee Broad Jump Out",
+          "36:14"
+        ],
+        [
+          "Roxzone Out",
+          "36:53"
+        ],
+        [
+          "Roxzone In",
+          "42:39"
+        ],
+        [
+          "Row In",
+          "43:24"
+        ],
+        [
+          "Row Out",
+          "48:07"
+        ],
+        [
+          "Roxzone Out",
+          "48:25"
+        ],
+        [
+          "Roxzone In",
+          "54:12"
+        ],
+        [
+          "Farmers Carry In",
+          "55:06"
+        ],
+        [
+          "Farmers Carry Out",
+          "56:34"
+        ],
+        [
+          "Roxzone Out",
+          "56:55"
+        ],
+        [
+          "Roxzone In",
+          "1:02:45"
+        ]
+      ],
+      "data_gaps": [
+        "Splits table from 1:02:45 to finish not retrievable via text extractor",
+        "Simulator page shows loading state; no numeric pacing export found"
+      ]
+    },
+    {
+      "event": "Rotterdam 2026",
+      "idp": "LR3MS4JI4BFE36",
+      "athletes": [
+        "Tess de Graaf",
+        "Mabel de Glas"
+      ],
+      "division": "DB WOMEN",
+      "age_group": "25-29",
+      "totals": {
+        "finish_time": "1:11:38",
+        "finish_seconds": 4298,
+        "overall_rank": 98,
+        "field_size": 2050,
+        "overall_percentile_top": 8.8,
+        "ag_rank": 35,
+        "run_total": "39:31",
+        "run_seconds": 2371,
+        "run_rank": 89,
+        "run_percentile_top": 11.1,
+        "workout_total": "26:20",
+        "workout_seconds": 1580,
+        "workout_rank": 190,
+        "workout_percentile_top": 20.9,
+        "roxzone_total": "05:47",
+        "roxzone_seconds": 347,
+        "roxzone_rank": 214,
+        "roxzone_percentile_top": 20.6,
+        "fastest_run": "04:29",
+        "avg_run_pace": "04:56",
+        "running_ratio_pct": 55.2,
+        "workout_avg": "03:18",
+        "workout_ratio_pct": 36.8
+      },
+      "runs": [
+        "04:59",
+        "04:29",
+        "04:54",
+        "04:54",
+        "04:54",
+        "04:52",
+        "05:01",
+        "05:33"
+      ],
+      "workouts": {
+        "SkiErg": "04:43",
+        "Sled Push": "01:44",
+        "Sled Pull": "03:15",
+        "Burpee Broad Jump": "03:31",
+        "Row": "04:45",
+        "Farmers Carry": "01:24",
+        "Sandbag Lunges": "03:14",
+        "Wall Balls": "03:44"
+      },
+      "splits_available_rows": [
+        [
+          "Roxzone In",
+          "04:59"
+        ],
+        [
+          "SkiErg In",
+          "05:03"
+        ],
+        [
+          "SkiErg Out",
+          "09:46"
+        ],
+        [
+          "Roxzone Out",
+          "10:26"
+        ],
+        [
+          "Roxzone In",
+          "14:55"
+        ],
+        [
+          "Sled Push In",
+          "14:57"
+        ],
+        [
+          "Sled Push Out",
+          "16:41"
+        ],
+        [
+          "Roxzone Out",
+          "17:04"
+        ],
+        [
+          "Roxzone In",
+          "21:56"
+        ],
+        [
+          "Sled Pull In",
+          "22:11"
+        ],
+        [
+          "Sled Pull Out",
+          "25:26"
+        ],
+        [
+          "Roxzone Out",
+          "25:56"
+        ],
+        [
+          "Roxzone In",
+          "30:49"
+        ],
+        [
+          "Burpee Broad Jump In",
+          "30:54"
+        ],
+        [
+          "Burpee Broad Jump Out",
+          "34:25"
+        ],
+        [
+          "Roxzone Out",
+          "35:16"
+        ],
+        [
+          "Roxzone In",
+          "40:10"
+        ],
+        [
+          "Row In",
+          "40:35"
+        ],
+        [
+          "Row Out",
+          "45:20"
+        ],
+        [
+          "Roxzone Out",
+          "45:33"
+        ],
+        [
+          "Roxzone In",
+          "50:24"
+        ],
+        [
+          "Farmers Carry In",
+          "51:13"
+        ],
+        [
+          "Farmers Carry Out",
+          "52:37"
+        ],
+        [
+          "Roxzone Out",
+          "52:49"
+        ],
+        [
+          "Roxzone In",
+          "57:50"
+        ]
+      ],
+      "data_gaps": [
+        "Splits table from 57:50 to finish not retrievable via text extractor",
+        "Simulator page shows loading state; no numeric pacing export found"
+      ]
+    }
+  ],
+  "comparison": [
+    {
+      "metric": "Totale eindtijd (sec)",
+      "amsterdam": 4677,
+      "rotterdam": 4298,
+      "verschil_rot_minus_ams": -379,
+      "verschil_pct": -8.1
+    },
+    {
+      "metric": "Totale looptijd (sec)",
+      "amsterdam": 2662,
+      "rotterdam": 2371,
+      "verschil_rot_minus_ams": -291,
+      "verschil_pct": -10.93
+    },
+    {
+      "metric": "Totale workouttijd (sec)",
+      "amsterdam": 1620,
+      "rotterdam": 1580,
+      "verschil_rot_minus_ams": -40,
+      "verschil_pct": -2.47
+    },
+    {
+      "metric": "Totale Roxzone (sec)",
+      "amsterdam": 395,
+      "rotterdam": 347,
+      "verschil_rot_minus_ams": -48,
+      "verschil_pct": -12.15
+    },
+    {
+      "metric": "Overall rank",
+      "amsterdam": 378,
+      "rotterdam": 98,
+      "verschil_rot_minus_ams": -280,
+      "verschil_pct": -74.07
+    },
+    {
+      "metric": "Age-group rank",
+      "amsterdam": 70,
+      "rotterdam": 35,
+      "verschil_rot_minus_ams": -35,
+      "verschil_pct": -50.0
+    },
+    {
+      "metric": "Run 1 (sec)",
+      "amsterdam": 246,
+      "rotterdam": 299,
+      "verschil_rot_minus_ams": 53,
+      "verschil_pct": 21.54
+    },
+    {
+      "metric": "Run 2 (sec)",
+      "amsterdam": 319,
+      "rotterdam": 269,
+      "verschil_rot_minus_ams": -50,
+      "verschil_pct": -15.67
+    },
+    {
+      "metric": "Run 3 (sec)",
+      "amsterdam": 340,
+      "rotterdam": 294,
+      "verschil_rot_minus_ams": -46,
+      "verschil_pct": -13.53
+    },
+    {
+      "metric": "Run 4 (sec)",
+      "amsterdam": 331,
+      "rotterdam": 294,
+      "verschil_rot_minus_ams": -37,
+      "verschil_pct": -11.18
+    },
+    {
+      "metric": "Run 5 (sec)",
+      "amsterdam": 347,
+      "rotterdam": 294,
+      "verschil_rot_minus_ams": -53,
+      "verschil_pct": -15.27
+    },
+    {
+      "metric": "Run 6 (sec)",
+      "amsterdam": 347,
+      "rotterdam": 292,
+      "verschil_rot_minus_ams": -55,
+      "verschil_pct": -15.85
+    },
+    {
+      "metric": "Run 7 (sec)",
+      "amsterdam": 351,
+      "rotterdam": 301,
+      "verschil_rot_minus_ams": -50,
+      "verschil_pct": -14.25
+    },
+    {
+      "metric": "Run 8 (sec)",
+      "amsterdam": 385,
+      "rotterdam": 333,
+      "verschil_rot_minus_ams": -52,
+      "verschil_pct": -13.51
+    },
+    {
+      "metric": "SkiErg (sec)",
+      "amsterdam": 262,
+      "rotterdam": 283,
+      "verschil_rot_minus_ams": 21,
+      "verschil_pct": 8.02
+    },
+    {
+      "metric": "Sled Push (sec)",
+      "amsterdam": 94,
+      "rotterdam": 104,
+      "verschil_rot_minus_ams": 10,
+      "verschil_pct": 10.64
+    },
+    {
+      "metric": "Sled Pull (sec)",
+      "amsterdam": 202,
+      "rotterdam": 195,
+      "verschil_rot_minus_ams": -7,
+      "verschil_pct": -3.47
+    },
+    {
+      "metric": "Burpee Broad Jump (sec)",
+      "amsterdam": 249,
+      "rotterdam": 211,
+      "verschil_rot_minus_ams": -38,
+      "verschil_pct": -15.26
+    },
+    {
+      "metric": "Row (sec)",
+      "amsterdam": 284,
+      "rotterdam": 285,
+      "verschil_rot_minus_ams": 1,
+      "verschil_pct": 0.35
+    },
+    {
+      "metric": "Farmers Carry (sec)",
+      "amsterdam": 89,
+      "rotterdam": 84,
+      "verschil_rot_minus_ams": -5,
+      "verschil_pct": -5.62
+    },
+    {
+      "metric": "Sandbag Lunges (sec)",
+      "amsterdam": 202,
+      "rotterdam": 194,
+      "verschil_rot_minus_ams": -8,
+      "verschil_pct": -3.96
+    },
+    {
+      "metric": "Wall Balls (sec)",
+      "amsterdam": 238,
+      "rotterdam": 224,
+      "verschil_rot_minus_ams": -14,
+      "verschil_pct": -5.88
+    }
+  ],
+  "method": "Geëxtraheerd uit HYRESULT totals/runs/workouts/splits pagina’s via web renderer; simulator leverde geen numerieke output."
+}
